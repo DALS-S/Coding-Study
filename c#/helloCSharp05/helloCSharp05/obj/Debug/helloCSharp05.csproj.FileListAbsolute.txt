@@ -1,0 +1,10 @@
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\helloCSharp05\helloCSharp05\bin\Debug\helloCSharp05.exe.config
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\helloCSharp05\helloCSharp05\bin\Debug\helloCSharp05.exe
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\helloCSharp05\helloCSharp05\bin\Debug\helloCSharp05.pdb
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\helloCSharp05\helloCSharp05\obj\Debug\helloCSharp05.csproj.AssemblyReference.cache
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\helloCSharp05\helloCSharp05\obj\Debug\helloCSharp05.Form1.resources
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\helloCSharp05\helloCSharp05\obj\Debug\helloCSharp05.Properties.Resources.resources
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\helloCSharp05\helloCSharp05\obj\Debug\helloCSharp05.csproj.GenerateResource.cache
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\helloCSharp05\helloCSharp05\obj\Debug\helloCSharp05.csproj.CoreCompileInputs.cache
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\helloCSharp05\helloCSharp05\obj\Debug\helloCSharp05.exe
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\helloCSharp05\helloCSharp05\obj\Debug\helloCSharp05.pdb

@@ -1,0 +1,7 @@
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\helloCSharp01\test1025-1\bin\Debug\test1025-1.exe.config
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\helloCSharp01\test1025-1\bin\Debug\test1025-1.exe
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\helloCSharp01\test1025-1\bin\Debug\test1025-1.pdb
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\helloCSharp01\test1025-1\obj\Debug\test1025-1.csproj.AssemblyReference.cache
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\helloCSharp01\test1025-1\obj\Debug\test1025-1.csproj.CoreCompileInputs.cache
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\helloCSharp01\test1025-1\obj\Debug\test1025-1.exe
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\helloCSharp01\test1025-1\obj\Debug\test1025-1.pdb

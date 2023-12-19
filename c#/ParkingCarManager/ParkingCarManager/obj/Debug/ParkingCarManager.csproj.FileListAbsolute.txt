@@ -1,0 +1,10 @@
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\ParkingCarManager\ParkingCarManager\bin\Debug\ParkingCarManager.exe.config
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\ParkingCarManager\ParkingCarManager\bin\Debug\ParkingCarManager.exe
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\ParkingCarManager\ParkingCarManager\bin\Debug\ParkingCarManager.pdb
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\ParkingCarManager\ParkingCarManager\obj\Debug\ParkingCarManager.csproj.AssemblyReference.cache
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\ParkingCarManager\ParkingCarManager\obj\Debug\ParkingCarManager.Form1.resources
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\ParkingCarManager\ParkingCarManager\obj\Debug\ParkingCarManager.Properties.Resources.resources
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\ParkingCarManager\ParkingCarManager\obj\Debug\ParkingCarManager.csproj.GenerateResource.cache
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\ParkingCarManager\ParkingCarManager\obj\Debug\ParkingCarManager.csproj.CoreCompileInputs.cache
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\ParkingCarManager\ParkingCarManager\obj\Debug\ParkingCarManager.exe
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\ParkingCarManager\ParkingCarManager\obj\Debug\ParkingCarManager.pdb

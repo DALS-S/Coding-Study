@@ -1,0 +1,10 @@
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\helloCSharp03\test1030-02\bin\Debug\test1030-02.exe.config
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\helloCSharp03\test1030-02\bin\Debug\test1030-02.exe
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\helloCSharp03\test1030-02\bin\Debug\test1030-02.pdb
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\helloCSharp03\test1030-02\obj\Debug\test1030-02.csproj.AssemblyReference.cache
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\helloCSharp03\test1030-02\obj\Debug\test1030_02.Student.resources
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\helloCSharp03\test1030-02\obj\Debug\test1030_02.Properties.Resources.resources
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\helloCSharp03\test1030-02\obj\Debug\test1030-02.csproj.GenerateResource.cache
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\helloCSharp03\test1030-02\obj\Debug\test1030-02.csproj.CoreCompileInputs.cache
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\helloCSharp03\test1030-02\obj\Debug\test1030-02.exe
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\helloCSharp03\test1030-02\obj\Debug\test1030-02.pdb

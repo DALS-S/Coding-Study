@@ -1,0 +1,40 @@
+﻿  project_convert01.c
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\Project_convert01\Project_convert01\project_convert01.c(1,1): warning C4603: '_CRT_SECURE_NO_WARNINGS': 매크로가 정의되지 않았거나 미리 컴파일된 헤더 사용 후와 정의가 다릅니다.
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\Project_convert01\Project_convert01\project_convert01.c(1,1): message : 여기에서 정의하지 않고 미리 컴파일된 헤더에 매크로 추가
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\Project_convert01\Project_convert01\project_convert01.c(15,1): message : 미리 컴파일된 헤더 사용
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\Project_convert01\Project_convert01\project_convert01.c(19,2): warning C4013: 'CursorView'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\Project_convert01\Project_convert01\project_convert01.c(19,21): error C2065: 'NOCURSOR': 선언되지 않은 식별자입니다.
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\Project_convert01\Project_convert01\project_convert01.c(20,2): warning C4013: 'font_color'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\Project_convert01\Project_convert01\project_convert01.c(20,22): error C2065: 'LIGHT_RED': 선언되지 않은 식별자입니다.
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\Project_convert01\Project_convert01\project_convert01.c(21,2): warning C4013: 'title'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\Project_convert01\Project_convert01\project_convert01.c(22,2): warning C4013: 'system'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\Project_convert01\Project_convert01\project_convert01.c(24,18): error C2065: 'WHITE': 선언되지 않은 식별자입니다.
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\Project_convert01\Project_convert01\project_convert01.c(25,10): warning C4013: 'enterMenu'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\Project_convert01\Project_convert01\project_convert01.c(29,12): warning C4013: 'main_menu'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\Project_convert01\Project_convert01\project_convert01.c(31,5): warning C4013: 'bookTopData'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\Project_convert01\Project_convert01\project_convert01.c(32,5): warning C4013: 'bookRecData'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\Project_convert01\Project_convert01\project_convert01.c(34,13): warning C4013: 'bookMenu'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\Project_convert01\Project_convert01\project_convert01.c(36,29): error C2065: 'LIGHT_YELLOW': 선언되지 않은 식별자입니다.
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\Project_convert01\Project_convert01\project_convert01.c(37,6): warning C4013: 'bookTopRead'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\Project_convert01\Project_convert01\project_convert01.c(41,29): error C2065: 'LIGHT_YELLOW': 선언되지 않은 식별자입니다.
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\Project_convert01\Project_convert01\project_convert01.c(42,6): warning C4013: 'bookRecRead'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\Project_convert01\Project_convert01\project_convert01.c(49,6): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\Project_convert01\Project_convert01\project_convert01.c(58,5): warning C4013: 'enterMovieData'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\Project_convert01\Project_convert01\project_convert01.c(59,13): warning C4013: 'movieMenu'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\Project_convert01\Project_convert01\project_convert01.c(61,21): error C2065: 'CYAN': 선언되지 않은 식별자입니다.
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\Project_convert01\Project_convert01\project_convert01.c(62,6): warning C4013: 'movieTop10'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\Project_convert01\Project_convert01\project_convert01.c(66,21): error C2065: 'CYAN': 선언되지 않은 식별자입니다.
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\Project_convert01\Project_convert01\project_convert01.c(67,6): warning C4013: 'movieRec'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\Project_convert01\Project_convert01\project_convert01.c(83,13): warning C4013: 'gameMenu'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\Project_convert01\Project_convert01\project_convert01.c(86,27): error C2065: 'LIGHT_CYAN': 선언되지 않은 식별자입니다.
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\Project_convert01\Project_convert01\project_convert01.c(87,6): warning C4013: 'snakegame'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\Project_convert01\Project_convert01\project_convert01.c(93,6): warning C4013: 'howToPlay'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\Project_convert01\Project_convert01\project_convert01.c(112,5): warning C4013: 'gotoxy'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\Project_convert01\Project_convert01\project_convert01.c(119,5): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  project_convert02.c
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\Project_convert01\Project_convert01\project_convert02.c(189,1): fatal  error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  project_convert03.c
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\Project_convert01\Project_convert01\project_convert03.c(506,1): fatal  error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  project_convert04.c
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\Project_convert01\Project_convert01\project_convert04.c(123,1): fatal  error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  코드를 생성하고 있습니다...

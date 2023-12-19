@@ -1,0 +1,12 @@
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\BookManager_1103\BookManager_1103\bin\Debug\BookManager_1103.exe.config
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\BookManager_1103\BookManager_1103\bin\Debug\BookManager_1103.exe
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\BookManager_1103\BookManager_1103\bin\Debug\BookManager_1103.pdb
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\BookManager_1103\BookManager_1103\obj\Debug\BookManager_1103.csproj.AssemblyReference.cache
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\BookManager_1103\BookManager_1103\obj\Debug\BookManager_1103.Form1.resources
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\BookManager_1103\BookManager_1103\obj\Debug\BookManager_1103.Properties.Resources.resources
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\BookManager_1103\BookManager_1103\obj\Debug\BookManager_1103.csproj.GenerateResource.cache
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\BookManager_1103\BookManager_1103\obj\Debug\BookManager_1103.csproj.CoreCompileInputs.cache
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\BookManager_1103\BookManager_1103\obj\Debug\BookManager_1103.exe
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\BookManager_1103\BookManager_1103\obj\Debug\BookManager_1103.pdb
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\BookManager_1103\BookManager_1103\obj\Debug\BookManager_1103.Form2.resources
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\BookManager_1103\BookManager_1103\obj\Debug\BookManager_1103.Form3.resources

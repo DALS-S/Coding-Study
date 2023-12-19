@@ -1,0 +1,10 @@
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\test1026-01\lottoTeset\bin\Debug\lottoTeset.exe.config
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\test1026-01\lottoTeset\bin\Debug\lottoTeset.exe
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\test1026-01\lottoTeset\bin\Debug\lottoTeset.pdb
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\test1026-01\lottoTeset\obj\Debug\lottoTeset.csproj.AssemblyReference.cache
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\test1026-01\lottoTeset\obj\Debug\lottoTeset.Form1.resources
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\test1026-01\lottoTeset\obj\Debug\lottoTeset.Properties.Resources.resources
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\test1026-01\lottoTeset\obj\Debug\lottoTeset.csproj.GenerateResource.cache
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\test1026-01\lottoTeset\obj\Debug\lottoTeset.csproj.CoreCompileInputs.cache
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\test1026-01\lottoTeset\obj\Debug\lottoTeset.exe
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\test1026-01\lottoTeset\obj\Debug\lottoTeset.pdb

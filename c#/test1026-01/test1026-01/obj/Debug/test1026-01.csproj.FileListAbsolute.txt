@@ -1,0 +1,7 @@
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\test1026-01\test1026-01\bin\Debug\test1026-01.exe.config
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\test1026-01\test1026-01\bin\Debug\test1026-01.exe
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\test1026-01\test1026-01\bin\Debug\test1026-01.pdb
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\test1026-01\test1026-01\obj\Debug\test1026-01.csproj.AssemblyReference.cache
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\test1026-01\test1026-01\obj\Debug\test1026-01.csproj.CoreCompileInputs.cache
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\test1026-01\test1026-01\obj\Debug\test1026-01.exe
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\test1026-01\test1026-01\obj\Debug\test1026-01.pdb
