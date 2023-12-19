@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- 표(table)를 만들때는 <table> 태그 사용 -->
+    <table border="1px solid black">
+        <tbody> <!-- 테이블 태그 생성시 자동으로 생성(생략된다) -->
+            <!-- <caption> 태그 :: 표를 설정할 때 사용-->
+            <!-- <colgroup> 태그 :: 열을 그룹화하여 스타일 적용할 때 사용(col 태그와 함께 사용) -->
+            <colgroup>
+                <col style="background-color: chartreuse;">
+                <col span="2" style="background-color: bisque;"
+            </colgroup>
+            <caption>[인적사항]</caption>
+            <!-- <tr>, <th>, <td> 를 사용하여, 행과 열을 구성 -->
+            <!-- <tr> :: 행을 하나씩 추가할 때 사용 -->
+            <!-- <th> :: 테이블 헤더의 실질적인 데이터를 의미 -->
+            <!-- <td> :: 테이블의 실질적인 데이터를 의미-->
+            <tr style="background-color: aqua;">
+                <th>이름</th>
+                <th>성별</th>
+                <th>생일</th>
+            </tr>
+            <tr>
+                <td>이경민</td>
+                <td>남자</td>
+                <td>10/21</td>
+            </tr>
+        </tbody>
+        <!-- <thead>, <tbody>, <tfoot> :: 헤더, 본문, 바닥글 의미-->
+    </table>
+</body>
+</html>

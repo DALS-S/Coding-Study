@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form>
+        <!-- checkbox 와 radio -->
+        <!-- 공통점 :: 선택지가 여러가지일 때 볼 수 있는 입력 방식 -->
+        <!-- 차이점 :: 체크 박스는 복수 선택 가능, 라디오는 단일 선택만 가능 -->
+
+        <!-- label 태그 :: 입력 값 설명, 클릭시 연결되어 있는 input에 포커싱 -->
+        <p>성별</p> <!--라디오-->
+        <input type ="radio" id="male" name="gender" value="male">
+        <label for="male">남성</label>
+        <input type ="radio" id="female" name="gender" value="female">
+        <label for="female">여성</label>
+        <p>취미</p> <!--체크박스-->
+        <input type="checkbox" id="mumung" name="hobby" value="mulmung">
+        <label for="mulmung">물멍</label>
+        <input type="checkbox" id="write" name="hobby" value="write">
+        <label for="write">글쓰기</label>
+        <input type="checkbox" id="movie" name="hobby" value="watching movie">
+        <label>영화감상</label>
+        <input type="checkbox" id="game" name="hobby" value="game">
+        <label for="game">게임</label>
+    </form>
+</body>
+</html>
