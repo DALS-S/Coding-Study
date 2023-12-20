@@ -1,0 +1,40 @@
+form {
+    background-color: white;
+    border: 5px solid turquoise;
+    text-align: left;
+    margin: 10%;
+    margin-top: 5%;
+    padding: 3%;
+}
+div{
+    padding: 25px;
+}
+hr {
+    border:solid 2px rgb(202, 200, 200);
+    width: 90%;
+} 
+h1{
+    text-align: center;
+    background-color: white;
+    padding: 10px;
+}
+body{
+    background-color: darkblue;
+    background-image: url("https://img.freepik.com/free-photo/night-sky-with-lot-of-shiny-stars-with-blurred-mountain-background_1258-84795.jpg");
+    background-size: cover;
+}
+label{
+    font-weight: bolder;
+}
+label[class=button],#comment{
+    font-weight:lighter
+}
+#name,#ENGname,#idTag,#email{
+    width: 100px;
+}
+#homtel,#tel{
+    width:50px;
+}
+#button{
+    background-color: rgb(243, 253, 149);
+}

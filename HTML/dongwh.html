@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        /* 동위 연산자 :: +,~
+        [선택자1] + [선택자2] :: [선택자1] "바로" 뒤에 위치하는 [선택자2]를 선택(하나만 선택) 
+        [선택자1] ~ [선택자2] :: [선택자1] 뒤에 위치하는 [선택자2]를 선택
+        */
+        h1+p{
+            color: yellow;
+        }
+        h1~p{
+            background-color: darkgray;
+        }
+    </style>
+</head>
+<body>
+    <h1>헤더</h1>
+    <p>태그1</p>
+    <p>태그2</p>
+    <p>태그3</p>
+</body>
+</html>

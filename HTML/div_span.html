@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    div {
+        width : 100px;
+        height: 100px;
+        background-color: #f5d682;
+        border: 1px solid red;
+        }
+</style>
+<body>
+    <!-- 공간 분할 태그 -->
+
+    <!-- display 속성 :: block, inline, inline-block -->
+    <!-- block :: 한줄 전체를 차지, 상하로는 필요한 공간만 차지하며 조절 가능 -->
+    <!-- inline :: 상하 좌우 모두 필요한 만큼만 공간 차지, 단 조절은 불가능 -->
+    <!-- inline-block :: 상하 좌우 필요한 만큼만 공찬 차지, 좌우 크기 조절 가능 -->
+    <p style="display:block; height: 10px;">block으로 설정</p></br>
+    <!-- width, height 값을 주었으니 조절이 안됨 -->
+    <p style="display:inline; width: 20px; height: 20px;">inline으로 설정</p></br>
+    <!-- width, height 값을 주지 않으면, inline 처럼 작동
+         다만, width, height 로 조절이 가능한 점은 block 속성을 닮음 -->
+    <p style="display:inline-block; width: 200px; height: 20px;">inline-block으로 설정</p></br>
+
+    <!-- div 태그 :: display값 디폴트가 block 속성의 공간 분할 태그 -->
+    <!-- span 태그 :: display값 디폴트가 inline 속성의 공간 분할 태그 -->
+
+    <div style="display:inline">
+        div 태그
+    </div>
+
+    <!-- 너비 및 높이 속성 안 먹힘 -->
+    <span style="width: 200px; height: 200px;">
+        span 태그
+    </span>
+
+    <!-- <header>, <nav>, <aside>, <section>, <article>, <footer> -->
+
+</body>
+</html>

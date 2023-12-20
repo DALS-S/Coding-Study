@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- form 태그 :: 입력 양식 선언 태그 -->
+    <form>
+        <!--왠만해선 여기 안에 입력 태그들을 나열-->
+        <!--input 태그 :: 대표적인 html 입력 태그-->
+        <input type="text" placeholder="내용 입력"> <!--디폴트-->
+        </br>
+        <input type="number">
+        </br>
+
+        <!--radio 와 checkbox 차이 :: 단일 / 중복-->
+        <!--name 속성 :: 카테고리 정의 / value 속성 :: 실질적인 입력 값-->
+        <!--label 태그 :: 입력 값에 대한 설명 (입력 값을 포커싱)-->
+        성별
+        <input type="radio" id="male" name="gender" value="male">
+        <label for="male">남성</label>
+        <input type="radio" id="female" name="gender" value="female">
+        <label for="female">여성</label>
+        </br>
+        좋아하는 과일
+        <input type="checkbox" id="apple" name="fruit" value="apple">
+        <label for="apple">사과</label>
+        <input type="checkbox" id="orange" name="fruit" value="orange">
+        <label for="orange">오렌지</label>
+        <input type="checkbox" id="melon" name="fruit" value="melon">
+        <label for="melon">멜론</label>
+        </br>
+        <input type="date"> 
+        </br>
+        <!--등등 다수 존재-->
+
+        <!--textarea 태그 :: 여러 줄 입력 가능-->
+        <textarea cols="20" row="10">
+            내용 입력
+        </textarea>
+        </br>
+
+        <!--select 태그 :: 선택 양식 선언-->
+        <!--option 태그를 추가하여 선택지 추가-->
+        <!--optgroup 태그 :: option 을 그룹화-->
+        전화번호
+        <select>
+            <option>010</option>
+            <option>011</option>
+            <option>012</option>
+            <option>017</option>
+            <option>019</option>
+        </select>
+        -
+        <input type="text" id="middle_tel" style="width: 50px;">
+        -
+        <input type="text" id="final_tel" style="width: 50px;">
+        </br>
+    </form>
+
+    <!--display 속성 :: block, inline, inline-block-->
+    <!--div 태그 :: block 속성이 디폴트(공간 분할)-->
+    <!--span 태그 :: inline 속성이 디폴트(공간 분할)-->
+    <div style="border: 3px solid tomato">
+        div tag
+    </div>
+    <span style="border: 3px solid green;">
+        span tag
+    </span>
+</body>
+</html>

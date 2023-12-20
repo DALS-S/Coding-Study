@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Sign Up Page.css">
+    <title>Sign Up Page</title>
+</head>
+<body>
+    <h1>예제 :: input 폼을 이용하여 회원가입 폼 만들기</h1>
+    <div>
+        <form>
+                <div>
+                    <h2>회원가입 페이지에 오실 것을 환영합니다!</h2>
+                    <h4>아래의 정보를 입력해주시길 바랍니다.</h4>
+                </div>
+                <div>
+                    <h3>회원 정보 (User Information)</h3>
+                    <hr>
+                    <label for="name">이름</label>
+                    <input type="text" id="name" name="menu"/>
+                    </br>
+                    <label for="ENGname">영어 이름</label>
+                    <input type="text" id="ENGname" name="menu"/>
+                    </br>
+                    <label>성별</label> 
+                    <input type ="radio" id="male" name="gender" value="male">
+                    <label class="button" for="male">남성</label>
+                    <input type ="radio" id="female" name="gender" value="female">
+                    <label class="button" for="female">여성</label>
+                    <input type ="radio" id="other" name="gender" value="other">
+                    <label class="button" for="other">기타</label>
+                    </br>
+                    <label for="idTag">주민등록번호</label>
+                    <input type="text" id="idTag" name="menu"/> - <input type="text" id="idTag"/>
+                    </br>
+                    <label for="brithday">생년월일</label>
+                    <input type="date" id="brithday" name="menu"/>
+                    </br>
+                    <label for="email">이메일</label>
+                    <input type="text" id="email" name="menu"/> @
+                    <select>
+                        <option>naver.com</option>
+                        <option>kakao.com</option>
+                        <option>hanmail.ner</option>
+                        <option>gmail.com</option>
+                        <option>icloud.com</option>
+                    </select>
+                    </br>
+                    <label for="homtel">집전화</label>
+                    <input type="text" id="homtel" name="telnum"/> 
+                    - <input type="text" id="homtel" name="telnum"/> - <input type="text" id="homtel" name="telnum"/>
+                    </br>
+                    <label for="tel">휴대폰</label>
+                    <select>
+                        <option>010</option>
+                        <option>011</option>
+                        <option>017</option>
+                        <option>019</option>
+                        <option>020</option>
+                    </select>  
+                    - <input type="text"id="tel" name="telnum"/> 
+                    - <input type="text"id="tel"name="telnum"/> <input type="button" id="button" value="전화번호 인증"/>
+                    </br>
+                    <label for="addr">집주소</label> 
+                    <input type="text"id="addr" name="menu"/> <input type="button" id="button" value="도로명 주소 검색"/>
+                    </br>
+                    <label for="detail_addr">상세주소 입력</label> 
+                    <input type="text"id="detail_addr" name="menu"/>
+                    </br>
+                    <label>알게 된 경로</label>
+                    </br>
+                    <input type="checkbox" id="ad" name="how" value="ad">
+                    <label class="button" for="ad">현수막</label>
+                    <input type="checkbox" id="visit" name="how" value="visit">
+                    <label class="button" for="visit">기관 방문</label>
+                    <input type="checkbox" id="ptel" name="how" value="tel">
+                    <label class="button" for="ptel">전화</label>
+                    <input type="checkbox" id="recomand" name="how" value="recomand">
+                    <label class="button" for="recomand">지인 추천</label>
+                    <input type="checkbox" id="search" name="how" value="search">
+                    <label class="button" for="search">검색</label>
+                    </br>
+                </div>
+                <div>
+                    <h3>계정정보 (Account Information)</h3>
+                    <hr>
+                    <label for="id">아이디</label> 
+                    <input type="text" id="id" name="menu"/>  <input id="button" type="button" value="중복확인"/>
+                    </br>
+                    <label for="pw">비밀번호 입력</label> 
+                    <input type="text" id="pw" name="menu"/>
+                    </br>
+                    <label for="pwCheck">비밀번호 확인</label> 
+                    <input type="text" id="pwCheck" name="menu"/>
+                    </br>
+                    <label id="comment" for="notice">*영문자 대소문자와 특수문자(!, ?, #, @ 등)과 조합하여 작성해주시길 바랍니다.</label>
+                    </br>
+                    <label>개인정보 유효기간</label>
+                    <label class="button" id="3" name="m" value="3">
+                        <input type="radio" name = "day" for = "3"/>3개월     
+                    </label>
+                    <label class="button" id="3" name="m" value="3">
+                        <input type="radio" name = "day" for = "3"/>6개월
+                    </label>
+                    <label class="button" id="3" name="m" value="3">
+                        <input type="radio" name = "day" for = "3"/>1년
+                    </label>
+                    <label class="button" id="3" name="m" value="3">
+                        <input type="radio" name = "day" for = "3"/>탈퇴시까지
+                    </label>
+                </div>
+                <div>
+                    <input type="button" id="button" value="계정 생성"/> 
+                    <input type="button" id="button" value="취소"/>
+                </div>
+            </label>
+        </form>
+    </div>
+    <h1>수고하셨습니다!</h1>
+</body>
+</html>
