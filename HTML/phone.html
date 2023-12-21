@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        div{
+            text-align: center;
+        }
+        hr{
+            width: 10%;
+            margin-top: 70px;
+        }
+        input[type="submit"]{
+            padding: 10px 30px;
+            margin: 30px 150px;
+        }
+        form{
+            display: inline;
+        }
+        img{
+            width: 100px;
+            height: 100px;
+            padding: 10px 30px;
+            margin: 30px 150px;
+            animation: sizeUpDown 4s infinite;
+            display:inline;
+        }
+        @keyframes sizeUpDown{
+            0%{transform: scale(1);}
+            30%{transform: scale(1.5);}
+            50%{transform: scale(2);}
+            70%{transform: scale(1.5);}
+            100%{transform: scale(1);}
+        }
+    </style>
+</head>
+<body>
+        <div>
+            <h1>전화가 왔습니다. 받으시겠습니까?</h1>
+        </div>
+        <div>
+            <hr>
+        </div>
+        <div id="button">
+            <form action="call.html">
+                <input type="submit" id="tel" value="전화받기">
+            </form>
+            <form action="missed call.html">
+                <input type="submit" id="tel" value="전화거절">
+            </form>
+        </div>
+        <div>
+                <img src="Call.ico" id="img">
+                <img src="End Call.ico" id="img">
+        </div>
+</body>
+</html>
