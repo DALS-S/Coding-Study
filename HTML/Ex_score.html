@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>정보처리기사 합격 여부</title>
+</head>
+<body>
+
+<script>
+        // 객체를 아래처럼 생성하라
+        // 필드 :: 1-5 과목 성적(배열), good(0으로 초기화)
+        // 메소드::
+        // 1.subject_score(sc):: 과락 여부 판단 메소드
+        //   해당 과목 성적이 40점 이상이라면 good에 1 추가
+        // 2.sum_score():: 총 과목 평균 판단 메소드
+        //   총 평균이 60점 이상이면 good에 1추가
+        // 3.print():: 모든 과목의 점수와 총 평균을 출력하고 합격 여부를 출력
+
+        // 한 학생의 정보처리기사 필기 시험의 점수에 대해 입력을 받고, 메소드를 적절히 사용하여 합격 여부를 확인하라
+        // (정보처리기사는 5개 과목이 40점 이상, 총 과목 평균이 60점 이상이어야한다.)
+    var result = {
+        subject_Scores: [],
+        detail_subject: ["소프트웨어설계","소프트웨어개발","데이터베이스구축","프로그래밍언어활용","정보시스템구축관리"],
+        good: 0,
+        subject_Score: function (sc) {
+            if (sc >= 40) {
+                this.good++;
+            }
+        },
+        sum_Score: function () {
+            var total_Score = this.subject_Scores.reduce(function (acc, score) {
+                return acc + score;
+            }, 0);
+            var average_Score = total_Score / this.subject_Scores.length;
+            if (average_Score >= 60) {
+                this.good++;
+            }
+        },
+        print: function () {
+            document.write("<h2>정보처리기사 성적</h2>");
+            for (var i = 0; i < this.subject_Scores.length; i++) {
+                document.write("<p>" + this.detail_subject[i] + ": " + this.subject_Scores[i] + "점</p>");
+            }
+            document.write("<p>총 평균: " + this.average() + "점</p>");
+            document.write("<p>합격 여부: " + (this.good > 5 ? "합격" : "불합격") + "</p>");
+        },
+        average: function () {
+            var total_Score = this.subject_Scores.reduce(function (acc, score) {
+                return acc + score;
+            }, 0);
+            return total_Score / this.subject_Scores.length;
+        }
+    };
+    for (var i = 0; i < 5; i++) {
+        var score = prompt("과목 " + (i + 1) + "의 점수:");
+        result.subject_Scores.push(parseInt(score));
+        result.subject_Score(result.subject_Scores[i]);
+    }
+    result.sum_Score();
+    result.print();
+</script>
+</body>
+</html>

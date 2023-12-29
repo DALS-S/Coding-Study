@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MBTI</title>
+</head>
+<style>
+
+</style>
+<body>
+    <!-- 
+        사용자에게 4개의 입력을 받게끔 하고 
+        사용자의 mbti를 아래로 출력하게끔하라
+        (이때, form 태그의 체출 버튼을 눌러 입력받게끔 하고
+        함수를 사용하여 사용자의 mbti 연산을 수행하라)
+
+        ex)
+        - 외향적(E)/내향적(I)
+        - 현실형(S)/직관형(N)
+        - 감성적(F)/이성적(T)
+        - 계획형(J)/즉흥형(P)
+
+        [제출버튼]
+
+        =>당신의 mbti는 istj 입니다.
+     -->
+     <form>
+        <input type="radio" name="EI" value="E" id="E">
+        <label for="E">외향적(E)</label>
+        <input type="radio" name="EI" value="I" id="I">
+        <label for="I">내향적(I)</label>
+        <br>
+        <input type="radio" name="SN" value="S" id="S">
+        <label for="S">현실적(S)</label>
+        <input type="radio" name="SN" value="N" id="N">
+        <label for="N">직관적(N)</label>
+        <br>
+        <input type="radio" name="TF" value="T" id="T">
+        <label for="T">이성적(T)</label>
+        <input type="radio" name="TF" value="F" id="F">
+        <label for="F">감성적(F)</label>
+        <br>
+        <input type="radio" name="JP" value="J" id="J">
+        <label for="J">계획적(J)</label>
+        <input type="radio" name="JP" value="P" id="P">
+        <label for="P">즉흥적(P)</label>
+        <br>
+        <input type="submit" value="제출">
+     </form>
+     <h3 id="result"></h3>
+     <!-- 결과값 innerHTML로 전송 할 예정 -->
+     <script>
+        // 함수 :: 특정 기능을 수행하기 위한 명령문들의 집합
+        let one=document.getElementsByName("EI");
+        let two=document.getElementsByName("SN");
+        let three=document.getElementsByName("TF");
+        let four=document.getElementsByName("JP");
+        let mbti=getMbti(one,two,three,four);
+        function getMbti(o,t,th,f){
+            return o+t+th+f;
+        }
+        let result=document.getElementsById("result");
+        result.innerHTML(`당신의 MBTI 는 ${mbti} 입니다.`);
+     </script>
+</body>
+</html>

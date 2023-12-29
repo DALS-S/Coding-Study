@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <title>Document</title>
+</head>
+<body>
+    <p id="ptag">Jquery Test</p>
+    <p>click me</p>
+    <p>click me!!!</p>
+    
+    <script>
+        //Jquery :: JavaScript 보조 (자바스크립트 코드 간략화)
+        $(document).ready(function(){
+            $("#ptag").css('background-color','red');
+        })
+        // 왠만해선 고정으로 적어주는게 좋고 필요에 따라 ready 말고 다른 함수를 쓸 수는 있다.
+        // html 문서를 완전히 불러오고 난 후, 실행 할 내용 서술.
+
+        $(document).ready(function(){           // html 문서를 완전히 불러오고
+            $("p").click(function(){            // p 태그를 클릭하면
+                $(this).css('color','white');   // 글자를 하얀색으로 바꾼다.
+                $(this).css('background-color', 'black');
+            })
+        })
+        $(document).ready(function(){
+            $("p").click(function(){
+                $(this).hide();
+            })
+        })
+        // $ :: 접근한다. 의미
+        // $(선택자).동작함수();
+        // 태그/아이디/클래스 선택자, ...
+    </script>
+</body>
+</html>

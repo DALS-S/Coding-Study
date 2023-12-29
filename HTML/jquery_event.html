@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <title>Document</title>
+</head>
+<body>
+    <p id="ptag">Jquery Test</p>
+    <p>click me</p>
+    <p>click me!!!</p>
+    <script>
+        // 이벤트 :: 동작에 대한 행동 서술
+        // click :: 한번 클릭
+        // dblclick :: 더블 클릭
+        // hide :: 사라짐
+        $(document).ready(function(){
+            $("p").click(function(){
+                $(this).css("color", "red");
+                $(this).text("double click plz");   // 요소 값 변경
+            })
+        })
+        $(document).ready(function(){
+            $("p").dblclick(function(){
+                $(this).hide();
+                alert("p 태그가 사라졌습니다!");
+            })
+        })
+    </script>
+</body>
+</html>
